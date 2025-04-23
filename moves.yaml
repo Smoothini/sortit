@@ -1,0 +1,97 @@
+---
+include:
+    3d:
+      - stl
+      - gcode
+      - scad
+      - pcbdoc
+      - 3mf
+      - obj
+    archives:
+      - rar
+      - tar
+      - gz
+      - tgz
+      - zip
+      - iso
+      - img
+      - 7z
+    audio:
+      - mp3
+      - wav
+      - flac
+    android:
+      - apk
+    images:
+      - jpeg
+      - jpg
+      - png
+      - gif
+      - tiff
+      - jfif
+      - svg
+      - svgz
+      - webp
+      - ico
+    binaries:
+      - exe
+      - msi
+      - bin
+    books:
+      - epub
+      - azw
+      - azw3
+      - mobi
+      - djvu
+    comics:
+      - cbr
+      - cbz
+    data:
+      - csv
+      - tsv
+      - yaml
+      - yml
+      - conf
+      - log
+      - md5
+      - md5sum
+      - ini
+      - dll
+      - sql
+      - php
+    docs:
+      - pdf
+      - rtf
+      - txt
+      - xlsx
+      - doc
+      - docx
+      - html
+      - odt
+      - ics
+      - acsm
+      - bib
+    scripts:
+      - sh
+      - bat
+      - py
+    movies:
+      - srt
+      - avi
+      - mkv
+      - mp4
+    p2p:
+      - torrent
+    roms:
+      - 3ds
+      - nds
+      - gba
+      - opk
+      - vpk
+      - nsp
+      - ws
+exclude:
+  folders:
+    - _sorted
+  files:
+    - sort.py
